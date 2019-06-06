@@ -1,5 +1,5 @@
-start = int(input()) 
-end = int(input()) 
+start = (input()) 
+end = (input()) 
   
 for num in range(start+1, end): 
        if num % 2 == 0: 
