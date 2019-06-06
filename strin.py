@@ -1,2 +1,2 @@
-inp=input()
-print(inp+'.')
+r=input()
+print(r+'.')
