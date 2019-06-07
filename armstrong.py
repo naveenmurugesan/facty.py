@@ -1,11 +1,11 @@
-a=int(input())
+b=int(input())
 sum=0
-temp=a
+temp=b
 while temp>0:
- d=temp%10
- sum+=d**3
+ c=temp%10
+ sum+=c**3
  temp//=10
-if(a==sum):
+if(b==sum):
  print("yes")
 else:
  print("no")
