@@ -7,7 +7,7 @@ if m2 > m1 :
     while i<m1 and s1[i] == s2[i] :
         i += 1
     print(m2-i)
-elif m2 == n1 :
+elif m2 == m1 :
     i = 0
     while i<m2 and s1[i] == s2[i] :
         i += 1
