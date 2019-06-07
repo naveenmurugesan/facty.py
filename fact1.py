@@ -1,6 +1,6 @@
-n=int(input())
+a=int(input())
 fact=1
-while(n>0):
-  fact=fact*n
-  n=n-1
+while(a>0):
+  fact=fact*a
+  a=a-1
 print(fact)
