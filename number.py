@@ -1,24 +1,24 @@
-num = int(input())
+a = int(input())
 
-if num == 1:
+if a == 1:
 	print("One")
-elif num == 2:
+elif a == 2:
 	print("Two")
-elif num == 3:
+elif a == 3:
 	print("Three")
-elif num == 4:
+elif a == 4:
 	print("Four")
-elif num == 5:
+elif a == 5:
 	print("Five")
-elif num == 6:
+elif a == 6:
 	print("Six")
-elif num == 7:
+elif a == 7:
 	print("Seven")
-elif num == 8:
+elif a == 8:
 	print("Eight")
-elif num == 9:
+elif a == 9:
 	print("Nine")
-elif num == 10:
+elif a == 10:
 	print("Ten")
 else:
 	print("invalaid")
