@@ -1,11 +1,11 @@
 def check(l):
-        c=1
+        d=1
         for v in range(0,len(l)-1):
                 if l[v]!=l[v+1]:
-                        c=c+1
+                        d=d+1
                 else:
                     break
-        return c
+        return d
 num=int(input())
 l=list(map(int,input().split()))
 for v in range(0,len(l)):
