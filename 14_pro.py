@@ -1,8 +1,8 @@
 in1,in2=map(int,input().split())
 in3=list(map(int,input().split()))
-in=[]
+in1=[]
 in3.insert(0,0)
-for j in range(input2):
+for j in range(in2):
      v=[]
      s1=0
      k,l=map(int,input().split())
